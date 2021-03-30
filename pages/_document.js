@@ -14,7 +14,7 @@ class MyDocument extends Document {
           <link rel="apple-touch-icon" href="/android/android-launchericon-96-96.png"/>
           <link rel="theme_color" content="#fff" />
 
-          <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+          
       
         <link rel="apple-touch-icon" href="%PUBLIC_URL%/apple-icon-180.png"/>
       
